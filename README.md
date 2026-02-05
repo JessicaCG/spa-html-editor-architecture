@@ -36,7 +36,7 @@ Este repositorio contiene únicamente la documentación técnica y arquitectura 
    - Gestión automática de imágenes antiguas
   
 ### Flujo de la Aplicación
-![Flujo General](Diagrama%20sin%20título.jpg)
+![Flujo General](./assets/Diagrama%20sin%20título.jpg)
 
 ---
 
@@ -50,7 +50,7 @@ Este repositorio contiene únicamente la documentación técnica y arquitectura 
 - **Tipo**: Single Page Application (SPA)
 
 - ### Estructura del Frontend (React 19)
-![Arquitectura Frontend](diagramaFrontend.drawio.png)
+![Arquitectura Frontend](./assets/diagramaFrontend.drawio.png)
 
 ### **Backend (PHP)**
 - **Lenguaje**: PHP 7.4+ (recomendado 8.0+)
@@ -58,7 +58,7 @@ Este repositorio contiene únicamente la documentación técnica y arquitectura 
 - **Base de Datos**: Externa (API remota)
 
 - ### Estructura del Backend (PHP API REST)
-![Arquitectura Backend](estructura%20del%20proyecto%20formats.jpg)
+![Arquitectura Backend](./assets/estructura%20del%20proyecto%20formats.jpg)
 
 ---
 
