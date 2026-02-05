@@ -50,7 +50,7 @@ Este repositorio contiene únicamente la documentación técnica y arquitectura 
 - **Tipo**: Single Page Application (SPA)
 
 - ### Estructura del Frontend (React 19)
-![Arquitectura Frontend](./assets/diagramaFrontend.drawio.png)
+![Arquitectura Frontend](./assets/diagramaFrontend.jpg)
 
 ### **Backend (PHP)**
 - **Lenguaje**: PHP 7.4+ (recomendado 8.0+)
