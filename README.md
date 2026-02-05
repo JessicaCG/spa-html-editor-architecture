@@ -110,7 +110,7 @@ El usuario selecciona uno de los botones, uno para crear nuevo formato y otro pa
 
 ### **Galería de Formatos Corporativos**
 Interfaz principal donde el usuario selecciona el formato a personalizar entre los 10 formatos disponibles (Disney, Dell, Mazda, etc.).
-![Galería de Formatos](./assets/Galería.png)
+![Galería de Formatos](./assets/Gallery.png)
 
 ### **Editor Visual en Tiempo Real**
 Entorno de configuración dinámica donde se ajustan colores, imágenes (headers/footers) y metadatos con previsualización instantánea vía Iframe.
