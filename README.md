@@ -100,6 +100,34 @@ formats/
 
 ---
 
+## 🖥️ Vista Previa del Sistema
+
+En esta sección se muestra la interfaz funcional de la plataforma, destacando la galería de selección y el entorno de edición visual.
+
+### **Botones iniciales en ligas de cada cliente, para crear nuevo formato o editar formato**
+El usuario selecciona uno de los botones, uno para crear nuevo formato y otro para editar formato existente 
+![Galería de Formatos](./assets/botones%20iniciales.PNG)
+
+### **Galería de Formatos Corporativos**
+Interfaz principal donde el usuario selecciona el formato a personalizar entre los 10 formatos disponibles (Disney, Dell, Mazda, etc.).
+![Galería de Formatos](./assets/Galería.png)
+
+### **Editor Visual en Tiempo Real**
+Entorno de configuración dinámica donde se ajustan colores, imágenes (headers/footers) y metadatos con previsualización instantánea vía Iframe.
+![Editor Visual](./assets/editor.PNG)
+
+### **Modal de opciones**
+Modal de opciones para seleccionar continuar con la edición del formato existente o cambiar por un nuevo formato y volver a comenzar el proceso de edición.
+![Editor Visual](./assets/modal.PNG)
+
+### **Panel de propiedades**
+Panel de propiedades donde el usuario realiza modificaciones al formato, como colores, imágenes, metadatos, tipo de enlace, visualización de temas sin notas, visualización de tabla tipo de cambio, vidsualización de carrusel de primeras planas, etc. 
+![Editor Visual](./assets/Propiedades.png)
+![Editor Visual](./assets/Propiedades2.png)
+![Editor Visual](./assets/Propiedades3.png)
+
+---
+
 ## 🚀 Características Principales
 
 ### **1. Galería de Formatos**
